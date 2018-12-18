@@ -1,0 +1,55 @@
+[OPTIONS]
+Compiled file=EasyBase.chm
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=EasyBase
+
+[WINDOWS]
+main="EasyBase","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+_i_observer_8h_source.html
+_i_subject_8h_source.html
+_singleton_8h_source.html
+_i_observer_8h.html
+_i_subject_8h.html
+_singleton_8h.html
+class_i_observer.html
+class_i_observer-members.html
+class_i_subject.html
+class_i_subject-members.html
+dir_e914ee4d4a44400f1fdb170cb4ead18a.html
+dir_32a73c752ebf76fa677000d8cec42890.html
+dir_aa4e80eee519daa3b1b7a18221b70670.html
+dir_45d0ac65b80e15fedd313c8ed70ea92e.html
+index.html
+annotated.html
+classes.html
+hierarchy.html
+files.html
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
+doxygen.png
+closed.png
+open.png
+bdwn.png
+sync_on.png
+sync_off.png
+u=3678151714,3481175438&fm=26&gp=0.jpg
+doc.png
+folderopen.png
+folderclosed.png
+arrowdown.png
+arrowright.png
+splitbar.png
+class_i_subject.png

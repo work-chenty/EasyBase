@@ -1,14 +1,22 @@
-/**************************************************************************
-	*  @Copyright (c) 2018, ChenTY, All rights reserved.
-	*  @file	 : IObserver.h
-	*  @version  : ver 1.0
-    *  @author   : ChenTY
-    *  @date     : 2018/12/18 23:18
-    *  @brief    : Abstract Observer class
-**************************************************************************/
+/**
+  * @file   IObserver.h
+  * @brief Thisis a brief description.
+  * @author ChenTY
+  * @par   Copyright (c):
+  *          ChenTY.
+  *         All Rights Reserved
+  * @date   2018:12:19 
+  *  @note   mattersneeding attention
+  *  @version <version  number>
+  */ 
 #ifndef IObserver_h__
 #define IObserver_h__
 
+/**
+  * @class <IObserver>
+  *  @brief  Abstract Observer.
+  *  @note   nothing
+ */
 class IObserver
 {
 public:

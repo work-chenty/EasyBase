@@ -1,18 +1,25 @@
-/**************************************************************************
-	*  @Copyright (c) 2018, ChenTY, All rights reserved.
-	*  @file	 : ISubject.h
-	*  @version  : ver 1.0
-    *  @author   : ChenTY
-    *  @date     : 2018/12/18 23:21
-    *  @brief    : Abstract subject for Observer
-**************************************************************************/
-
+/**
+  * @file   ISubject.h
+  * @brief Thisis a brief description.
+  * @author Chenty
+  * @par   Copyright (c):
+  *          Chenty.
+  *         All Rights Reserved
+  * @date   2018:12:19 
+  *  @note   mattersneeding attention
+  *  @version <version  number>
+  */ 
 #ifndef ISubject_h__
 #define ISubject_h__
 
 #include <vector>
 #include "IObserver.h"
 
+/**
+  * @class <ISubject>
+  *  @brief  abstract subject.
+  *  @note   nothing
+ */
 class ISubject: std::vector<IObserver*>
 {
 public:
