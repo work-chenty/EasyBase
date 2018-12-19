@@ -13,6 +13,7 @@
   <ItemGroup>
     <ClInclude Include="..\Inc\IObserver.h" />
     <ClInclude Include="..\Inc\ISubject.h" />
+    <ClInclude Include="..\Inc\Pat_export.h" />
     <ClInclude Include="..\Inc\Singleton.h" />
   </ItemGroup>
   <ItemGroup>
@@ -57,6 +58,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>PAT_EXPORT_DLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
